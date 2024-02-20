@@ -21,5 +21,6 @@ Skills:
 <strong>Projects:</strong>
 
 Integrated an Amazon Lex ChatBot with Facebook Messenger, creating a responsive conversational interface
+[Click Here!](https://github.com/lee-moss/-Integrate-Amazon-Lex-ChatBot-with-Facebook-Messenger)
 
 
