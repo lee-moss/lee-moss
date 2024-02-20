@@ -19,3 +19,18 @@ Programming Languages: node.js
 Here are some of the projects I've worked on:
 
 Integrated an Amazon Lex ChatBot with Facebook Messenger, creating a responsive conversational interface
+
+
+About_Me:
+  - "💼 Currently working as a Junior Cloud Engineer at DVLA"
+  - "🎓 Graduated from Command Shift software engineering bootcamp in May 2023"
+  - "🌱 Continuously learning and exploring new opportunities in cloud engineering and DevOps"
+  - "💬 Let's connect! LinkedIn: mal85"
+
+Skills:
+  Cloud_Platforms: "AWS, Azure"
+  Infrastructure_as_Code: "Terraform, AWS CloudFormation"
+  Containerization_&_Orchestration: "Docker, Kubernetes"
+  DevOps_Tools: "Atlassian Suite (Jira, Confluence), Git"
+  Programming_Languages: "node.js"
+
