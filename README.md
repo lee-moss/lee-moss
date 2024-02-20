@@ -3,9 +3,9 @@
 I'm currently working as a Junior Cloud Engineer at the UK's Driver and Vehicle Licensing Agency (DVLA). I'm passionate about designing, developing, and deploying cloud-based solutions to ensure high availability, scalability, and security of systems.
 <br></br>
 <strong>About Me</strong>
-💼 Currently working as a Junior Cloud Engineer at DVLA
-🎓 Graduated from Command Shift software engineering bootcamp in May 2023
-🌱 Continuously learning and exploring new opportunities in cloud engineering and DevOps
+💼 Currently working as a Junior Cloud Engineer at DVLA<br></br>
+🎓 Graduated from Command Shift software engineering bootcamp in May 2023<br></br>
+🌱 Continuously learning and exploring new opportunities in cloud engineering and DevOps<br></br>
 💬 Let's connect! LinkedIn: <strong>mal85</strong>
 <br></br>
 <strong>Skills</strong>
