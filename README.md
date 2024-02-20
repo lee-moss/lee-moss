@@ -1,16 +1,21 @@
-### Hi there 👋
+👋 Hi there! Welcome to my GitHub profile. I'm Lee 
 
-<!--
-**lee-moss/lee-moss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working as a Junior Cloud Engineer at the UK's Driver and Vehicle Licensing Agency (DVLA). I'm passionate about designing, developing, and deploying cloud-based solutions to ensure high availability, scalability, and security of systems.
 
-Here are some ideas to get you started:
+<strong>About Me</strong>
+💼 Currently working as a Junior Cloud Engineer at DVLA
+🎓 Graduated from Command Shift software engineering bootcamp in May 2023
+🌱 Continuously learning and exploring new opportunities in cloud engineering and DevOps
+💬 Let's connect! LinkedIn: <strong>mal85</strong>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<strong>Skills</strong>
+Cloud Platforms: AWS, Azure
+Infrastructure as Code: Terraform, AWS CloudFormation
+Containerisation & Orchestration: Docker, Kubernetes
+DevOps Tools: Atlassian Suite (Jira, Confluence), Git
+Programming Languages: node.js
+
+<strong<Projects</strong>
+Here are some of the projects I've worked on:
+
+Integrated an Amazon Lex ChatBot with Facebook Messenger, creating a responsive conversational interface
