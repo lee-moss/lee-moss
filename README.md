@@ -15,12 +15,9 @@ Skills:
   - Infrastructure as Code: Terraform, AWS CloudFormation
   - Containerisation & Orchestration: Docker, Kubernetes
   - DevOps Tools: Atlassian Suite (Jira, Confluence), Git
-  - Programming Languages: node.js
 
 <br></br>
 <strong>Projects:</strong>
 
-Integrated an Amazon Lex ChatBot with Facebook Messenger, creating a responsive conversational interface
-[Click Here!](https://github.com/lee-moss/-Integrate-Amazon-Lex-ChatBot-with-Facebook-Messenger)
 
 
