@@ -4,7 +4,7 @@ I'm currently working as a Junior Cloud Engineer at the UK's Driver and Vehicle 
 <br></br>
 
 About Me:
-  - 💼 Currently working as a Junior Cloud Engineer at DVLA
+  - 💼 Currently working as a Junior Cloud Engineer at the DVLA
   - 🎓 Graduated from Command Shift software engineering bootcamp in May 2023
   - 🌱 Continuously learning and exploring new opportunities in cloud engineering and DevOps
 
