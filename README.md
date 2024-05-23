@@ -7,7 +7,6 @@ About Me:
   - 💼 Currently working as a Junior Cloud Engineer at DVLA
   - 🎓 Graduated from Command Shift software engineering bootcamp in May 2023
   - 🌱 Continuously learning and exploring new opportunities in cloud engineering and DevOps
-  - 💬 Let's connect! LinkedIn: [mal85](https://www.linkedin.com/in/mal85/)
 
 
 Skills:
