@@ -10,15 +10,15 @@ About Me:
 
 
 Skills:
-  - Cloud Platforms: AWS, Azure
-  - Infrastructure as Code: Terraform, AWS CloudFormation
+  - Cloud Platforms: Azure, AWS
+  - Infrastructure as Code: Bicep & Terraform
   - Containerisation & Orchestration: Docker, Kubernetes
-  - DevOps Tools: Atlassian Suite (Jira, Confluence), Git
+  - DevOps Tools: Azure DevOps, Atlassian Suite (Jira, Confluence), Git
 
 <br></br>
 <strong>Projects:</strong>
 
-[Cloud Resume Challenge](https://github.com/lee-moss/cloudResume) 
+[Netflix CI/CD with Azure & Bicep](https://github.com/lee-moss//Azure_Netflix_Clone) 
 
 
 
