@@ -5,7 +5,7 @@ I'm currently working as a Cloud Engineer at the UK's Driver and Vehicle Licensi
 
 About Me:
   - 💼 Currently working as a Junior Cloud Engineer at the DVLA
-  - 🎓 Graduated from Command Shift software engineering bootcamp in May 2023
+    
   - 🌱 Continuously learning and exploring new opportunities in cloud engineering and DevOps
 
 
@@ -18,7 +18,7 @@ Skills:
 <br></br>
 <strong>Projects:</strong>
 
-[Netflix CI/CD with Azure & Bicep](https://github.com/lee-moss//Azure_Netflix_Clone) 
+[Netflix CI/CD with Azure & Terraform](https://github.com/lee-moss//Azure_Netflix_Clone) 
 
 
 
