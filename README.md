@@ -1,13 +1,7 @@
 👋 Hi there! Welcome to my GitHub profile. I'm Lee 
 
-I'm currently working as a Cloud Engineer at the UK's Driver and Vehicle Licensing Agency (DVLA). I'm passionate about designing, developing, and deploying cloud-based solutions to ensure high availability, scalability, and security of systems.
+I'm currently working as an Infrastructure Engineer at the UK Home Office. I'm passionate about designing, developing, and deploying cloud-based solutions to ensure high availability, scalability, and security of systems.
 <br></br>
-
-About Me:
-  - 💼 Currently working as a Junior Cloud Engineer at the DVLA
-    
-  - 🌱 Continuously learning and exploring new opportunities in cloud engineering and DevOps
-
 
 Skills:
   - Cloud Platforms: Azure, AWS
