@@ -1,6 +1,6 @@
 👋 Hi there! Welcome to my GitHub profile. I'm Lee 
 
-I'm currently working as an Infrastructure Engineer at the UK Home Office. I'm passionate about designing, developing, and deploying cloud-based solutions to ensure high availability, scalability, and security of systems.
+I'm currently working as an Infrastructure Engineer at the UK Home Office. I'm passionate about designing, developing, and deploying cloud and hybrid based solutions to ensure high availability, scalability, and security of systems.
 <br></br>
 
 Skills:
