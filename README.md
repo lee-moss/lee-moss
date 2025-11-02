@@ -16,7 +16,7 @@ Learn Cloud & Infra by solving *real incidents* — no spoon-feeding.
 
 ---
 
-## 🚀 Start here (pinned)
+## 🚀 Start here
 - **Ticket 001 — Hub–Spoke “Ghost” Routing** · *routing asymmetry, UDRs, peering flags*  
 - *(10th November)* **Ticket 002 — Azure Firewall DNAT Drift** · *idempotent DNAT, drift detection, CI guardrails*  
 
