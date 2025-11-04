@@ -55,6 +55,6 @@ Azure · Terraform (IaC) · VNet Peering · UDRs · Azure Firewall · AKS · NVA
 ---
 
 📨 **Follow along**: new ticket every **Monday**.  
-Connect on LinkedIn → **https://www.linkedin.com/in/lam85/**
+Connect on LinkedIn → **https://www.linkedin.com/in/lam-ai/**
 
 > House rules: be respectful, redact secrets, and avoid posting full solutions.
